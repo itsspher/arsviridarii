@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "index.md",
+            "file": "letters.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "letters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,9 +88,10 @@
   },
   "active": "7742de3c3c417901",
   "lastOpenFiles": [
+    "letters.md",
+    "did-i-do-something-wrong.md",
     "index.md",
     "works.md",
-    "music.md",
-    "letters.md"
+    "music.md"
   ]
 }

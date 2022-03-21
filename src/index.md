@@ -1,7 +1,6 @@
 # ars viridarii
 
-Hi there! Welcome to my website. It's a little sparse right now, but I'll have everything set up soon enough.
+Hi there! Welcome to my website. There isn't a lot here, but as I write more, I'll fill this space up.
 
 - [letters](letters.md), short blog posts about anything and everything
-- [works](works.md), my technical works
 - [music](music.md), my creative works
